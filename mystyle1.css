@@ -14,7 +14,10 @@ h1 {
     color: darkred;
 }
 td {
-    padding: 8px;
-    border-bottom: 1px solid #ddd;
+    padding: 10px;
+    background-color: #fef9e6;
+    border: 1px solid #ccc;
+    font-style: normal;
 }
+
 
