@@ -19,5 +19,13 @@ td {
     border: 1px solid #ccc;
     font-style: normal;
 }
+footer a {
+    text-decoration: none;
+    color: crimson;
+}
+footer a:hover {
+    color: darkblue;
+    text-decoration: underline;
+}
 
 
